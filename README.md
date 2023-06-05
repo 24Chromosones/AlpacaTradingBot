@@ -63,7 +63,7 @@ The strategy is simple. Buy every week and hold!
 
 ![img.png](images/dca.png)
 
-Wow, that blew the 2 other strategies away!
+Wow, that blew the 2 other strategies away! Over 3x the return on our initial investment.
 
 ## Conclusion
 
